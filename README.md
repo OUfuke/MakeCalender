@@ -5,6 +5,7 @@ PukiWiki, DokuWiki, Markdown, TeX表記でのカレンダー生成
 
 使い方
 ===
+main.pyから実行
 - year 年の設定
 - month 月の設定
 - firstWeekday 週始めの日(calenderパッケージのcalender.SUNDAYはSUNDAYに対応する数字)
